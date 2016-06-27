@@ -1,0 +1,30 @@
+body {
+  font-size: 3.4rem;
+  font-family: KBFunHouse, helvetica;
+  background: linear-gradient(45deg, blue, red); }
+
+main {
+  padding-left: 4%; }
+
+header h1 {
+  font-size: 3rem;
+  text-align: center;
+  letter-spacing: 3px; }
+
+button {
+  width: 23%;
+  height: 5rem;
+  background: white;
+  opacity: .4; }
+
+output {
+  display: block;
+  height: 6rem;
+  text-align: center;
+  font-size: 5rem; }
+
+@media all and (max-width 651px) {
+  button {
+    font-size: 4rem; } }
+
+/*# sourceMappingURL=style.css.map */
